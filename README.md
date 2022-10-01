@@ -1,4 +1,5 @@
-# Nekos-Best-Deno
+# Nekos-Best-Deno <img src="https://github.com/Yakiyo/nekos-best-deno/actions/workflows/test.yml/badge.svg">
+
 
 Unofficial Deno module for [nekos.best](https://nekos.best).
 
